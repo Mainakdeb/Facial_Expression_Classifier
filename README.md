@@ -16,6 +16,10 @@ it using the CNN model.
 4. Snap photos using the webcam.
 5. Pass it through the model.
 6. See the results.
+7. Run one of the last two cells to run the model with live webcam video feed.
+
+### Warning: 
+The last cell might crash the kernel.
 
 ## To Do
 1. Balance the dataset.
