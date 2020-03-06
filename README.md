@@ -23,3 +23,15 @@ it using the CNN model.
 
 ## Notes:
 * The model has an accuracy of around 64% on the validation set.
+
+
+
+## Screenshots:
+
+![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_1.png)
+
+![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_2.png)
+
+![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_3.png)
+
+
