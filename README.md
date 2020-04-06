@@ -12,7 +12,7 @@ it using the CNN model.
 * [Reference article for classifying espressions (with 57% accuracy)](http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/)
 
 ## Steps:
-1. Download the resources, clone this repo. Save both in the same directory.
+1. Download the data, clone this repo. Save both in the same directory.
 2. Either train the model locally or load the existing model.
 3. Test out the model using the sample images.
 4. Snap photos using the webcam.
