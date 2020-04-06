@@ -8,6 +8,7 @@ it using the CNN model.
 ### Resources used:
 * [FER_2013_Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 * [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+* [Tutorial for using Haar Cascades](https://www.youtube.com/watch?v=88HdqNDQsEk)
 
 ## Steps:
 1. Download the resources, clone this repo. Save both in the same directory.
