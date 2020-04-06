@@ -9,6 +9,7 @@ it using the CNN model.
 * [FER_2013_Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 * [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 * [Tutorial for using Haar Cascades](https://www.youtube.com/watch?v=88HdqNDQsEk)
+* [Reference article for classifying espressions (with 57% accuracy)](http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/)
 
 ## Steps:
 1. Download the resources, clone this repo. Save both in the same directory.
