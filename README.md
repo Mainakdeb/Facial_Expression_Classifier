@@ -3,7 +3,13 @@ A Deep Learning model to recognise facial expressions.
 
 This uses OpenCV’s Haar cascades to detect and extract
 a face region from a webcam video feed, then classifies
-it using the CNN model.
+it using the CNN.
+
+I'm trying to implement the same using PyTorch, check out the colab notebook. I'll delete the keras notebook once the PyTorch version is done.
+
+* [Colab Notebook (PyTorch)](https://colab.research.google.com/drive/1mjbN_x_6SxZkj4_q_3Thcb-MWVnDTysB)
+* [View Keras notebook in NBViewer](https://nbviewer.jupyter.org/github/Mainakdeb/Facial_Expression_Classification/blob/master/Expression_Detector_alpha.ipynb)
+
 
 ### Resources used:
 * [FER_2013_Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
@@ -11,32 +17,21 @@ it using the CNN model.
 * [Tutorial for using Haar Cascades](https://www.youtube.com/watch?v=88HdqNDQsEk)
 * [Reference article for classifying espressions (with 57% accuracy)](http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/)
 
-## Steps:
-1. Download the data, clone this repo. Save both in the same directory.
-2. Either train the model locally or load the existing model.
-3. Test out the model using the sample images.
-4. Snap photos using the webcam.
-5. Pass it through the model.
-6. See the results.
-7. Run one of the last two cells to run the model with live webcam video feed.
 
-### Warning: 
-The last cell might crash the kernel.
 
 ## To Do
-1. Balance the dataset.
+1. ~Balance the dataset.~
 2. Augment training data to increase overall robustness of the model.
+
 
 ## Notes:
 * The model has an accuracy of around 64% on the validation set.
-
 
 
 ## Screenshots:
 
 ![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_1.png)
 
-![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_2.png)
 
 ![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_3.png)
 
