@@ -1,4 +1,8 @@
 # Facial_Expression_Recognition
+
+<img src="https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_screenshot.png" width="510">
+
+
 A Deep Learning model to recognise facial expressions.
 
 This uses OpenCV’s Haar cascades to detect and extract
@@ -21,18 +25,5 @@ I'm trying to implement the same using PyTorch, check out the colab notebook. I'
 
 ## To Do
 1. ~Balance the dataset.~
-2. Augment training data to increase overall robustness of the model.
-
-
-## Notes:
-* The model has an accuracy of around 64% on the validation set.
-
-
-## Screenshots:
-
-![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_screenshot.png)
-
-
-
-
-
+2. ~Augment training data to increase overall robustness of the model.~
+3. Implement the whole thing using PyTorch.
