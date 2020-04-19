@@ -30,9 +30,9 @@ I'm trying to implement the same using PyTorch, check out the colab notebook. I'
 
 ## Screenshots:
 
-![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_1.png)
+![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_screenshot.png)
 
 
-![Alt text](https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/Screenshot_3.png)
+
 
 
