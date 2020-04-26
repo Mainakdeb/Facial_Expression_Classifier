@@ -1,6 +1,6 @@
 # Facial_Expression_Recognition
 
-<img src="https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_screenshot.png" width="510">
+<img src="https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_Predictions.png" width="510">
 
 
 A Deep Learning model to recognise facial expressions.
