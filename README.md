@@ -1,6 +1,13 @@
 # Facial_Expression_Recognition
 
+
+
+## Running on live webcam feed:
+![](webcam-sample.gif)
+
+## Classifying still images:
 <img src="https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_Predictions.png" width="510">
+
 
 
 A Deep Learning model to recognise facial expressions.
@@ -26,4 +33,4 @@ I'm trying to implement the same using PyTorch, check out the colab notebook. I'
 ## To Do
 1. ~Balance the dataset.~
 2. ~Augment training data to increase overall robustness of the model.~
-3. Implement the whole thing using PyTorch.
+3. ~~Implement the whole thing using PyTorch.~~
