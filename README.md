@@ -2,7 +2,7 @@
 
 
 
-## Running on live webcam feed:
+## Real-time classification from webcam feed:
 ![](webcam-sample.gif)
 
 ## Classifying still images:
@@ -14,7 +14,7 @@ A Deep Learning model to recognise facial expressions.
 
 This uses OpenCV’s Haar cascades to detect and extract
 a face region from a webcam video feed, then classifies
-it using the CNN.
+it using a trained CNN.
 
 ### Resources used:
 * [FER_2013_Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
