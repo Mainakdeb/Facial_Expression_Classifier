@@ -8,13 +8,13 @@
 ## Classifying still images:
 <img src="https://github.com/Mainakdeb/Facial_Expression_Recognition-/blob/master/Screenshots/PyTorch_Predictions.png" width="510">
 
+### How does it work?
+* This uses OpenCV’s Haar cascades to detect and extract the facial region from an image or the webcam frame.
+<img src="https://github.com/Mainakdeb/Facial_Expression_Classifier/blob/master/Screenshots/vis_1.png" width="550">
 
+* Then this image is passed through the trained CNN, which returns a tensor corresponding to the predicted class.
+<img src="https://github.com/Mainakdeb/Facial_Expression_Classifier/blob/master/Screenshots/vis_2.png" width="750">
 
-A Deep Learning model to recognise facial expressions.
-
-This uses OpenCV’s Haar cascades to detect and extract
-a face region from a webcam video feed, then classifies
-it using a trained CNN.
 
 ### Resources used:
 * [FER_2013_Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
